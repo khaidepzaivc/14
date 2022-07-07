@@ -1,0 +1,30 @@
+body {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+} 
+html {
+		 background-image: url('https://s1.zerochan.net/Merlin.(Fate.Prototype).600.3087813.jpg');
+		 background-size: cover;
+		 background-repeat: no-repeat;
+	 }
+	 .chuthich {
+		 font-size: 50px;
+		 text-align: center;
+	 }
+	 h1 {
+		 text-align: center;
+	 }
+  .luachon {
+    /*background-color: rgb(99, 14, 16); */
+  }
+/*
+  .h2 {
+    font-size: 30px;
+    text-align: center;
+  }
+*/
+  .anh {
+    text-align: center;
+  }
+  h1 {
+    color: blue;
+  }

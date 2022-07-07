@@ -1,0 +1,31 @@
+:root {
+	--mau: red;
+} 
+h1{
+    color: mau;
+    font-size: 20px;
+    /*font-weight: 800; */
+}
+.kdz {
+    text-align: center;
+}
+html {
+    background: url('https://gamek.mediacdn.vn/133514250583805952/2021/7/16/ui1-16264100584861400261993.jpg');
+    background-size: cover;
+  /*background-repeat: no-repeat;*/
+}
+.kpdzvc {
+    color: mau;
+	text-align: center;
+}
+.anh {
+    text-align: center;
+    /*background-color: white; */
+}
+.linkfacebook{
+    color: mau;
+   
+.danhsach {
+	color: rgb(62, 48, 47);
+	/*background-color: azure; */
+}
